@@ -12,7 +12,6 @@ import {
 } from "./ui/dropdown-menu";
 
 import {
-	PiMapPinFill,
 	PiShoppingCartFill,
 	PiMinusBold,
 	PiPlusBold,

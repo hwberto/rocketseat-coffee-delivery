@@ -1,5 +1,4 @@
 import * as DropdownMenuPrimitive from "@radix-ui/react-dropdown-menu";
-import { FaCheck, FaAngleRight, FaCircle } from "react-icons/fa6";
 
 import { cn } from "@/lib/utils";
 
