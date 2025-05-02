@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "./fonts.css";
+
+@theme {
+	--font-roboto: "Roboto", sans-serif;
+	--font-baloo2: "Baloo 2 Variable", system-ui;
+	--color-yellow-dark: #c47f17;
+	--color-yellow: #dbac2c;
+	--color-yellow-light: #f1e9c9;
+	--color-purple-dark: #4b2995;
+	--color-purple: #8047f8;
+	--color-purple-light: #ebe5f9;
+	--color-base-title: #272221;
+	--color-base-subtitle: #403927;
+	--color-base-text: #574f4d;
+	--color-base-label: #8d8686;
+	--color-base-hover: #d7d5d5;
+	--color-base-button: #e6e5e5;
+	--color-base-input: #ededed;
+	--color-base-card: #f3f2f2;
+	--color-background: #fafafa;
+	--color-danger: #e25858;
+}
